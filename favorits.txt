@@ -1,0 +1,8 @@
+123;112;Тонер COSRX с прополисом
+45;221;Пенка SKIN1004
+ksenia;323;Пэды NEEDLY с витамином C
+ksenia;333;Крем ICON SKIN sos treatment
+stacy;221;Пенка SKIN1004
+52;113;Энзимная пудра ARAVIA
+loh;223;Сыворотка COSRX с витамином C
+loh;333;Крем ICON SKIN sos treatment

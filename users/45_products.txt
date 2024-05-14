@@ -1,0 +1,27 @@
+111;Пенка RAUND LAB с полынью
+112;Тонер COSRX с прополисом
+113;Энзимная пудра ARAVIA
+121;Мицелярная вода BIODERMA
+122;Пенка SKIN1004
+123;Пэды NEEDLY
+131;Пенка ISNTREE
+132;Тонер ISNTREE
+133;Крем ICON SKIN sos treatment
+211;Пенка CELIMAX
+212;Пэды CELIMAX с BHA
+213;Сыворотка CELIMAX с нони
+221;Пенка SKIN1004
+222;Тонер COSRX с прополисом
+223;Сыворотка COSRX с витамином C
+231;Пенка RAUND LAB
+232;Тонер RAUND LAB
+233;Точечно ICON SKIN sos streatment
+311;Пенка SKIN1004 с чайным деревом
+312;Тонер SKIN1004 с центеллой
+313;Сыворотка SKIN1004 с центеллой
+321;Мицелярная вода BIODERMA
+322;Пенка SNTREE
+323;Пэды NEEDLY с витамином C
+331;Пенка SKIN1004 с чайным деревом
+332;Тонер CELIMAX с нони
+333;Крем ICON SKIN sos treatment
